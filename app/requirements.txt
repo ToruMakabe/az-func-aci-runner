@@ -4,7 +4,7 @@
 
 azure-core == 1.15.0
 azure-functions == 1.7.2
-azure-identity == 1.6.0
+azure-identity == 1.16.1
 azure-keyvault-secrets == 4.3.0
 azure-mgmt-resource == 18.0.0
 azure-mgmt-containerinstance == 7.0.0
